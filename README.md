@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**krishanshamod/krishanshamod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+apiVersion: v22
+kind: Human
+metadata:
+  name: Krishan Shamod
+spec:
+  purpose: Do something unique
+  locations:
+    - 
+      type: LinkedIn
+      where: https://www.linkedin.com/in/krishanshamod/
+    - 
+      type: Medium
+      where: https://medium.com/@krishanshamod
+  favorites:
+    animal:😺
+    emoji: 😅
+    food: 🌮
+```
