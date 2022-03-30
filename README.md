@@ -15,7 +15,7 @@ spec:
       type: Medium
       where: https://medium.com/@krishanshamod
   favorites:
-    animal:😺
+    animal:🦇
     emoji: 😅
     food: 🌮
 ```
