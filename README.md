@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ```yaml
-apiVersion: v22
+apiVersion: v23
 kind: Human
 metadata:
   name: Krishan Shamod
